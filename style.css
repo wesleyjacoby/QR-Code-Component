@@ -10,6 +10,7 @@ body {
     align-items: center;
     background-color: hsl(220, 15%, 55%);
     height: 100vh;
+    font-family: "Outfit";
 }
 
 .card-container {
@@ -32,14 +33,12 @@ h1 {
     line-height: 1.2;
     padding: 0 24px;
     margin-bottom: 30px;
-    font-family: "Outfit";
     color: hsl(218, 44%, 22%);
 }
 
 p {
     text-align: center;
     padding: 0 24px;
-    font-family: "Outfit";
     font-weight: 400;
     font-size: 20px;
     line-height: 1.2;
